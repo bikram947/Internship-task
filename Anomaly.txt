@@ -1,0 +1,4 @@
+
+ANOMALY REPORT
+In the 'stop.txt'  file I've read the file line by line.But in some cases one line does not contain the whole database of a stopage.So in that case my result will not be correct.It would be correct if the database of user entered stopage is in one line.
+I've assumed that all the trips stops in all the stopage.
